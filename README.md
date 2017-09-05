@@ -48,7 +48,7 @@ less effecient to use a short instead of an int, and so that is why most program
 an int unless necessary. 
 
 Another thing; if you're math savy, you might have noticed that the maximum and minimum values of 
-Java's primitve types are half of what their bit width might lead you to believe. 2^(8) = 256, but
+Java's primitive types are half of what their bit width might lead you to believe. 2^(8) = 256, but
 why then is the maximum value of a byte 127? This is because all primitive integers in Java are signed;
 one bit at the beginning of each of the primitives is reserved for the sign of the number, 0 being
 positive, 1 being negative. Thus, 7 bits are used in a byte for holding a numerical value. This is
