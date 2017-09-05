@@ -1,0 +1,4 @@
+# Tells git to not count
+# ".class" files when we use
+# git add --all
+*.class
