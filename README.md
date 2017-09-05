@@ -1,10 +1,10 @@
 # PART1_Integers
 One of the most important types of primitive is the integer, which comes in many flavors (and sizes).
 
--The byte: 8 bits wide
--The short: 16 bits wide
--The int: 32 bits wide
--The long: 64 bits wide
+- The byte: 8 bits wide
+- The short: 16 bits wide
+- The int: 32 bits wide
+- The long: 64 bits wide
 
 But what is a primitive? In short (hehe), Java has a rule that everything in Java is an object. This
 isn't completely true though. Most everything in Java is in fact an object, but certain things like
